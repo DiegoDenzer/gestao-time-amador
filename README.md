@@ -32,5 +32,3 @@ https://www.figma.com/file/Htc0iDYfmfoCX4RVX1ilek/Gestao-time-amador?node-id=310
 - [ ] Usar a diretiva ngIf
 - [ ] Formatar a apresentação de dados com Pipes.
 - [ ] Build e deploy da aplicação.
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
